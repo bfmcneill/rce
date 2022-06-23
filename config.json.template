@@ -1,0 +1,7 @@
+{
+  "REDDIT_SECRET": "secret",
+  "REDDIT_CLIENT_ID": "client id",
+  "REDDIT_USERNAME": "username",
+  "REDDIT_PASSWORD": "password",
+  "REDDIT_DB_URI": "postgres://pguser:pguser@localhost:5432/reddit"
+}
