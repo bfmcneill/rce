@@ -9,7 +9,11 @@ setup(
     python_requires=">=3.6, <4",
     install_requires=[
         "click==8.1.3",
+        "praw==7.6.0",
         "pmaw==2.1.3",
+        "psycopg2==2.9.3",
+        "SQLAlchemy==1.4.37",
+        "pendulum==2.1.2",
     ],
     extras_require={
         "dev": [
