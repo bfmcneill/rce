@@ -1,6 +1,6 @@
 # Reddit Comment Extractor
 
-The purpose of this project is to have an easy-to-use interface for extracting comments from reddit api for sentiment classification and analysis
+The purpose of this project is to have an easy-to-use interface for extracting comments from reddit api for input into data processing pipeline that conducts sentiment classification for analysis
 
 ## Getting Started
 
