@@ -38,5 +38,5 @@ pcmd comments -s wallstreetbets -a "2021-12-10" -b "2021-12-15"
 
 ## References
 
-https://github.com/pushshift/api
-https://praw.readthedocs.io/en/latest/tutorials/comments.html
+- https://github.com/pushshift/api
+- https://praw.readthedocs.io/en/latest/tutorials/comments.html
