@@ -20,6 +20,7 @@ engine = sa.create_engine(db_secret.uri, echo=False, future=True)
 
 
 def comments(subreddit, after, before):
+    """TODO: stream data to database to prevent memory overload"""
     print(f"search comments for `{subreddit}` after={after} before={before}")
 
     gen = api.search_comments(
